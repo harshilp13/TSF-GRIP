@@ -6,5 +6,6 @@ Task2 : Prediction using unsupervised ML
 Task3 : Exploratory analysis of data - retail
 Task4 : Exploratory analysis of data - terrorism
 Task5 : Exploratory analysis of data - IPL
+Task6 : Prediction using Decision Tree Algorithm
 The problem statement and link to dataset are mentioned. 
 Thankyou.
